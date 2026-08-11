@@ -1,0 +1,230 @@
+track_name,duration_ms,explicit,album_name,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence
+Fortnight (feat. Post Malone),228965,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.504,0.386,-10.976,0.0308,0.502,1.53e-05,0.0961,0.281
+The Tortured Poets Department,293048,True,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.604,0.428,-8.441,0.0255,0.0483,0.0,0.126,0.292
+My Boy Only Breaks His Favorite Toys,203801,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.596,0.563,-7.362,0.0269,0.137,0.0,0.302,0.481
+Down Bad,261228,True,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.541,0.366,-10.412,0.0748,0.56,1e-06,0.0946,0.168
+"So Long, London",262974,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.423,0.533,-11.388,0.322,0.73,0.00264,0.0816,0.248
+But Daddy I Love Him,340428,True,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.521,0.72,-7.684,0.104,0.384,0.0,0.135,0.438
+Fresh Out The Slammer,210789,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.33,0.483,-9.394,0.0399,0.624,0.0,0.111,0.34
+Florida!!! (feat. Florence + The Machine),215463,True,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.533,0.573,-7.123,0.138,0.178,0.0,0.309,0.398
+Guilty as Sin?,254365,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.626,0.428,-8.374,0.0261,0.607,0.0,0.0921,0.487
+Who’s Afraid of Little Old Me?,334084,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.606,0.338,-10.555,0.048,0.315,0.0,0.106,0.238
+I Can Fix Him (No Really I Can),156297,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.661,0.257,-13.961,0.045,0.768,1.72e-06,0.176,0.318
+loml,277156,True,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.423,0.272,-12.56,0.0489,0.858,0.0,0.108,0.195
+I Can Do It With a Broken Heart,218004,True,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.701,0.751,-8.39,0.0502,0.123,0.0,0.15,0.22
+The Alchemy,196900,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.64,0.421,-8.802,0.0273,0.422,0.0,0.103,0.353
+Clara Bow,216662,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.686,0.318,-11.046,0.0263,0.636,0.00144,0.106,0.214
+The Black Dog,238857,True,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.527,0.27,-10.855,0.038,0.707,0.0,0.102,0.23
+imgonnagetyouback,222072,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.784,0.391,-9.471,0.0633,0.608,0.0,0.252,0.15
+The Albatross,183878,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.352,0.479,-8.942,0.0583,0.655,0.0,0.0935,0.292
+Chloe or Sam or Sophia or Marcus,213281,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.516,0.451,-8.552,0.0446,0.78,0.0,0.105,0.218
+How Did It End?,238706,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.492,0.379,-8.859,0.0257,0.785,0.00093,0.108,0.273
+So High School,228800,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.366,0.866,-4.514,0.0466,0.0274,3.07e-06,0.106,0.293
+I Hate It Here,243875,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.485,0.562,-7.197,0.0346,0.717,0.0,0.357,0.297
+thanK you aIMee,263817,True,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.609,0.541,-8.013,0.0346,0.609,0.0,0.122,0.252
+I Look in People's Windows,131907,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.763,0.274,-11.429,0.0738,0.69,0.0,0.164,0.385
+The Prophecy,249807,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.421,0.525,-10.359,0.0472,0.825,2.67e-06,0.308,0.535
+Cassandra,240205,True,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.587,0.587,-9.879,0.0595,0.806,0.0,0.137,0.514
+Peter,283957,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.342,0.376,-8.212,0.0372,0.805,0.0,0.0593,0.29
+The Bolter,238241,True,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.455,0.586,-7.978,0.0492,0.638,0.0,0.131,0.481
+Robin,240893,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.476,0.386,-10.601,0.03,0.791,0.000423,0.1,0.158
+The Manuscript,224743,False,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,0.509,0.256,-11.665,0.0306,0.901,2.43e-06,0.103,0.436
+Welcome To New York (Taylor's Version),212600,False,1989 (Taylor's Version),0.76,0.602,-4.871,0.0316,0.00661,0.000133,0.325,0.685
+Blank Space (Taylor's Version),231833,False,1989 (Taylor's Version),0.732,0.719,-5.469,0.0645,0.0901,0.0,0.331,0.71
+Style (Taylor's Version),231000,False,1989 (Taylor's Version),0.514,0.821,-4.803,0.0444,0.000456,0.0232,0.0946,0.298
+Out Of The Woods (Taylor's Version),235800,False,1989 (Taylor's Version),0.544,0.884,-5.973,0.0383,0.000466,0.000134,0.381,0.184
+All You Had To Do Was Stay (Taylor's Version),193289,False,1989 (Taylor's Version),0.589,0.713,-5.614,0.0308,0.000778,0.0,0.188,0.54
+Shake It Off (Taylor's Version),219209,False,1989 (Taylor's Version),0.632,0.805,-5.707,0.069,0.0112,2.51e-05,0.156,0.903
+I Wish You Would (Taylor's Version),207650,False,1989 (Taylor's Version),0.671,0.853,-6.568,0.0417,0.00388,9.48e-06,0.0812,0.523
+Bad Blood (Taylor's Version),211103,False,1989 (Taylor's Version),0.624,0.711,-6.347,0.159,0.0369,3.13e-06,0.19,0.347
+Wildest Dreams (Taylor's Version),220433,False,1989 (Taylor's Version),0.587,0.663,-7.439,0.0598,0.0348,9.95e-05,0.0971,0.539
+How You Get The Girl (Taylor's Version),247533,False,1989 (Taylor's Version),0.761,0.67,-5.956,0.0537,0.00198,1.08e-05,0.0873,0.519
+This Love (Taylor’s Version),250100,False,1989 (Taylor's Version),0.47,0.494,-8.672,0.0349,0.302,0.0,0.0672,0.0524
+I Know Places (Taylor's Version),195700,False,1989 (Taylor's Version),0.572,0.807,-5.348,0.0574,0.0846,0.0,0.071,0.626
+Clean (Taylor's Version),271000,False,1989 (Taylor's Version),0.782,0.379,-8.964,0.0303,0.297,2.98e-05,0.103,0.267
+Wonderland (Taylor's Version),245566,False,1989 (Taylor's Version),0.387,0.703,-5.956,0.0545,0.0105,1.1e-05,0.128,0.32
+You Are In Love (Taylor's Version),267389,False,1989 (Taylor's Version),0.554,0.509,-9.403,0.0455,0.572,2.08e-06,0.113,0.401
+New Romantics (Taylor's Version),230177,False,1989 (Taylor's Version),0.653,0.848,-5.936,0.0583,0.00516,4.24e-06,0.0798,0.724
+"""Slut!"" (Taylor's Version) (From The Vault)",180381,False,1989 (Taylor's Version),0.621,0.415,-13.187,0.0543,0.33,0.000112,0.0634,0.313
+Say Don't Go (Taylor's Version) (From The Vault),279833,False,1989 (Taylor's Version),0.632,0.539,-8.375,0.0342,0.0684,5.82e-06,0.132,0.186
+Now That We Don't Talk (Taylor's Version) (From The Vault),146436,False,1989 (Taylor's Version),0.8,0.509,-9.386,0.034,0.16,3.05e-05,0.0834,0.0768
+Suburban Legends (Taylor's Version) (From The Vault),171818,False,1989 (Taylor's Version),0.695,0.607,-8.84,0.0357,0.212,0.0,0.102,0.394
+Is It Over Now? (Taylor's Version) (From The Vault),229477,False,1989 (Taylor's Version),0.599,0.651,-7.343,0.035,0.0486,0.0,0.126,0.153
+Mine (Taylor's Version),231706,False,Speak Now (Taylor's Version),0.647,0.793,-2.903,0.0363,0.00314,1.93e-06,0.174,0.5
+Sparks Fly (Taylor’s Version),261230,False,Speak Now (Taylor's Version),0.605,0.769,-2.413,0.032,0.0241,0.0,0.0936,0.366
+Back To December (Taylor's Version),294189,False,Speak Now (Taylor's Version),0.486,0.635,-3.994,0.0278,0.00705,0.0,0.119,0.235
+Speak Now (Taylor's Version),242473,False,Speak Now (Taylor's Version),0.734,0.686,-2.926,0.0349,0.225,0.0,0.136,0.598
+Dear John (Taylor's Version),405906,False,Speak Now (Taylor's Version),0.379,0.468,-5.07,0.0298,0.0327,0.0,0.158,0.115
+Mean (Taylor's Version),238693,False,Speak Now (Taylor's Version),0.526,0.7,-3.95,0.0392,0.321,0.0,0.213,0.596
+The Story Of Us (Taylor's Version),267653,False,Speak Now (Taylor's Version),0.516,0.784,-2.636,0.0563,0.00136,0.0,0.0499,0.552
+Never Grow Up (Taylor's Version),292920,False,Speak Now (Taylor's Version),0.684,0.339,-7.259,0.029,0.867,0.0,0.194,0.572
+Enchanted (Taylor's Version),353253,False,Speak Now (Taylor's Version),0.52,0.553,-3.546,0.0269,0.016,0.0,0.165,0.227
+Better Than Revenge (Taylor's Version),220306,False,Speak Now (Taylor's Version),0.505,0.893,-3.013,0.0771,0.000795,0.0,0.178,0.659
+Innocent (Taylor's Version),301221,False,Speak Now (Taylor's Version),0.524,0.611,-5.298,0.0297,0.0972,0.0,0.127,0.126
+Haunted (Taylor's Version),245413,False,Speak Now (Taylor's Version),0.44,0.916,-1.927,0.0629,0.00552,0.0,0.252,0.371
+Last Kiss (Taylor's Version),369120,False,Speak Now (Taylor's Version),0.557,0.362,-8.641,0.0263,0.443,3.57e-06,0.1,0.187
+Ours (Taylor’s Version),235803,False,Speak Now (Taylor's Version),0.539,0.475,-8.411,0.0287,0.42,0.0,0.109,0.293
+Superman (Taylor’s Version),274945,False,Speak Now (Taylor's Version),0.537,0.733,-3.506,0.0302,0.00207,0.0,0.11,0.347
+Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault),266466,False,Speak Now (Taylor's Version),0.547,0.854,-4.753,0.0526,0.018,0.0,0.156,0.26
+When Emma Falls in Love (Taylor’s Version) (From The Vault),252385,False,Speak Now (Taylor's Version),0.524,0.759,-4.714,0.0471,0.168,0.0,0.104,0.234
+I Can See You (Taylor’s Version) (From The Vault),273186,False,Speak Now (Taylor's Version),0.695,0.768,-4.883,0.0344,0.0577,0.0,0.0426,0.813
+Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault),306062,False,Speak Now (Taylor's Version),0.578,0.565,-8.064,0.0441,0.342,0.0,0.0662,0.351
+Foolish One (Taylor’s Version) (From The Vault),311765,False,Speak Now (Taylor's Version),0.672,0.613,-4.709,0.0298,0.599,0.0,0.112,0.557
+Timeless (Taylor’s Version) (From The Vault),321396,False,Speak Now (Taylor's Version),0.629,0.578,-5.806,0.0319,0.332,0.0,0.0868,0.651
+Lavender Haze,202395,True,Midnights (The Til Dawn Edition),0.735,0.449,-10.56,0.0883,0.23,0.00126,0.132,0.0955
+Maroon,218270,True,Midnights (The Til Dawn Edition),0.655,0.384,-8.29,0.0349,0.0634,1.45e-06,0.0973,0.0384
+Anti-Hero,200690,False,Midnights (The Til Dawn Edition),0.633,0.648,-6.645,0.062,0.121,2.62e-06,0.161,0.49
+Snow On The Beach (feat. Lana Del Rey),256124,True,Midnights (The Til Dawn Edition),0.663,0.321,-13.527,0.0409,0.701,0.000598,0.107,0.153
+"You're On Your Own, Kid",194206,False,Midnights (The Til Dawn Edition),0.696,0.39,-10.331,0.0616,0.447,1.55e-05,0.125,0.395
+Midnight Rain,174782,False,Midnights (The Til Dawn Edition),0.604,0.375,-11.637,0.0633,0.71,5.87e-05,0.116,0.203
+Question...?,210556,True,Midnights (The Til Dawn Edition),0.654,0.51,-8.767,0.242,0.206,0.0,0.249,0.105
+Vigilante Shit,164801,True,Midnights (The Til Dawn Edition),0.872,0.267,-10.764,0.387,0.166,2.18e-05,0.123,0.168
+Bejeweled,194165,False,Midnights (The Til Dawn Edition),0.687,0.551,-9.202,0.0787,0.0593,0.000143,0.09,0.443
+Labyrinth,247962,False,Midnights (The Til Dawn Edition),0.48,0.295,-15.512,0.0384,0.797,0.333,0.12,0.132
+Karma,204852,True,Midnights (The Til Dawn Edition),0.64,0.619,-7.108,0.065,0.062,0.0,0.475,0.121
+Sweet Nothing,188496,False,Midnights (The Til Dawn Edition),0.336,0.161,-14.973,0.0456,0.968,0.00011,0.115,0.407
+Mastermind,191039,False,Midnights (The Til Dawn Edition),0.66,0.343,-14.132,0.14,0.565,0.00134,0.0922,0.137
+The Great War,240355,False,Midnights (The Til Dawn Edition),0.57,0.747,-8.93,0.0342,0.199,2.32e-05,0.0854,0.574
+Bigger Than The Whole Sky,218502,False,Midnights (The Til Dawn Edition),0.42,0.22,-12.584,0.0472,0.841,0.00131,0.114,0.0705
+Paris,196258,False,Midnights (The Til Dawn Edition),0.703,0.518,-10.501,0.085,0.103,2.89e-05,0.148,0.347
+High Infidelity,231475,False,Midnights (The Til Dawn Edition),0.571,0.547,-10.141,0.101,0.704,0.0,0.0877,0.768
+Glitch,148781,False,Midnights (The Til Dawn Edition),0.677,0.47,-9.65,0.259,0.314,0.0,0.11,0.347
+"Would've, Could've, Should've",260361,False,Midnights (The Til Dawn Edition),0.485,0.846,-6.557,0.117,0.393,0.00115,0.124,0.548
+Dear Reader,225194,False,Midnights (The Til Dawn Edition),0.674,0.39,-11.944,0.0483,0.464,0.00122,0.116,0.151
+Hits Different,234466,True,Midnights (The Til Dawn Edition),0.666,0.786,-6.556,0.0439,0.134,3.34e-06,0.265,0.261
+Snow On The Beach (feat. More Lana Del Rey),229942,True,Midnights (The Til Dawn Edition),0.664,0.399,-10.997,0.0349,0.797,3.13e-06,0.105,0.265
+Karma (feat. Ice Spice),201493,True,Midnights (The Til Dawn Edition),0.615,0.626,-6.548,0.0778,0.0574,0.0,0.596,0.0705
+State Of Grace (Taylor's Version),295413,False,Red (Taylor's Version),0.594,0.713,-5.314,0.0503,0.000328,0.0,0.114,0.328
+Red (Taylor's Version),223093,False,Red (Taylor's Version),0.516,0.777,-4.908,0.0375,0.00108,1.62e-06,0.0761,0.408
+Treacherous (Taylor's Version),242720,False,Red (Taylor's Version),0.645,0.593,-6.506,0.0288,0.0344,0.000127,0.13,0.299
+I Knew You Were Trouble (Taylor's Version),219760,False,Red (Taylor's Version),0.584,0.557,-6.371,0.0342,0.0129,0.0,0.0576,0.767
+All Too Well (Taylor's Version),329160,False,Red (Taylor's Version),0.44,0.528,-7.809,0.0317,0.0171,0.00203,0.234,0.132
+22 (Taylor's Version),230960,False,Red (Taylor's Version),0.642,0.695,-5.62,0.0281,0.000443,1.02e-05,0.0753,0.642
+I Almost Do (Taylor's Version),244586,False,Red (Taylor's Version),0.511,0.559,-6.587,0.0264,0.0167,0.0,0.113,0.248
+We Are Never Ever Getting Back Together (Taylor's Version),193146,False,Red (Taylor's Version),0.567,0.686,-6.139,0.175,0.0317,1.86e-06,0.0732,0.716
+Stay Stay Stay (Taylor's Version),205786,False,Red (Taylor's Version),0.693,0.681,-7.039,0.025,0.0848,0.0,0.0768,0.663
+The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor’s Version),299080,False,Red (Taylor's Version),0.502,0.534,-5.954,0.0278,0.0399,0.0,0.0977,0.155
+Holy Ground (Taylor's Version),202960,False,Red (Taylor's Version),0.622,0.809,-5.623,0.0638,0.0288,0.00218,0.109,0.511
+Sad Beautiful Tragic (Taylor's Version),284773,False,Red (Taylor's Version),0.601,0.406,-11.827,0.0275,0.622,9.19e-05,0.133,0.232
+The Lucky One (Taylor's Version),240466,False,Red (Taylor's Version),0.686,0.571,-7.138,0.05,0.066,0.0,0.0608,0.538
+Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version),245426,False,Red (Taylor's Version),0.498,0.61,-5.098,0.0363,0.271,0.0,0.223,0.474
+Starlight (Taylor's Version),220413,False,Red (Taylor's Version),0.628,0.685,-5.864,0.0358,0.00324,0.0,0.18,0.605
+Begin Again (Taylor's Version),238866,False,Red (Taylor's Version),0.519,0.527,-7.673,0.0274,0.075,0.0,0.132,0.267
+The Moment I Knew (Taylor's Version),285280,False,Red (Taylor's Version),0.636,0.402,-7.855,0.031,0.0494,0.0,0.107,0.208
+Come Back...Be Here (Taylor's Version),223333,False,Red (Taylor's Version),0.46,0.632,-6.031,0.0302,0.0158,0.0,0.0822,0.399
+Girl At Home (Taylor's Version),220520,False,Red (Taylor's Version),0.691,0.736,-6.974,0.0326,0.00955,1.88e-05,0.101,0.612
+Ronan (Taylor's Version),264253,False,Red (Taylor's Version),0.623,0.279,-10.802,0.031,0.661,0.0,0.193,0.38
+Better Man (Taylor's Version) (From The Vault),297013,False,Red (Taylor's Version),0.473,0.579,-5.824,0.0384,0.214,0.0,0.0877,0.255
+Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),258812,False,Red (Taylor's Version),0.606,0.377,-9.455,0.0275,0.817,0.0,0.154,0.446
+Babe (Taylor's Version) (From The Vault),224240,False,Red (Taylor's Version),0.584,0.743,-7.075,0.0931,0.0538,2.83e-06,0.121,0.746
+Message In A Bottle (Taylor's Version) (From The Vault),225960,False,Red (Taylor's Version),0.622,0.791,-6.106,0.0535,0.00188,3.72e-06,0.083,0.494
+I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),285106,True,Red (Taylor's Version),0.391,0.715,-4.516,0.0495,0.167,0.0,0.183,0.473
+Forever Winter (Taylor's Version) (From The Vault),263533,False,Red (Taylor's Version),0.611,0.552,-5.828,0.031,0.256,0.0,0.134,0.41
+Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault),240226,False,Red (Taylor's Version),0.61,0.488,-6.918,0.0293,0.817,0.0,0.312,0.443
+The Very First Night (Taylor's Version) (From The Vault),200280,False,Red (Taylor's Version),0.678,0.733,-5.025,0.0281,0.00115,0.0,0.104,0.581
+All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),613026,True,Red (Taylor's Version),0.631,0.518,-8.771,0.0303,0.274,0.0,0.088,0.205
+Fearless (Taylor’s Version),241591,False,Fearless (Taylor's Version),0.569,0.741,-4.963,0.0282,0.0122,0.0,0.333,0.43
+Fifteen (Taylor’s Version),294419,False,Fearless (Taylor's Version),0.559,0.646,-4.61,0.0272,0.116,0.0,0.32,0.289
+Love Story (Taylor’s Version),235766,False,Fearless (Taylor's Version),0.627,0.792,-4.311,0.031,0.13,3.97e-06,0.0845,0.415
+Hey Stephen (Taylor’s Version),254254,False,Fearless (Taylor's Version),0.788,0.571,-6.135,0.0296,0.106,0.0,0.0934,0.797
+White Horse (Taylor’s Version),234515,False,Fearless (Taylor's Version),0.423,0.517,-7.377,0.0486,0.369,0.0,0.177,0.366
+You Belong With Me (Taylor’s Version),231124,False,Fearless (Taylor's Version),0.632,0.773,-4.856,0.0346,0.0623,0.0,0.0885,0.474
+Breathe (feat. Colbie Caillat) (Taylor’s Version),263377,False,Fearless (Taylor's Version),0.506,0.626,-6.066,0.0287,0.156,0.0,0.228,0.321
+Tell Me Why (Taylor’s Version),200575,False,Fearless (Taylor's Version),0.578,0.909,-3.669,0.0628,0.0222,0.0,0.333,0.541
+You’re Not Sorry (Taylor’s Version),261842,False,Fearless (Taylor's Version),0.506,0.444,-4.99,0.0285,0.0538,0.0,0.123,0.241
+The Way I Loved You (Taylor’s Version),243136,False,Fearless (Taylor's Version),0.402,0.732,-4.665,0.0484,0.0033,0.0,0.108,0.472
+Forever & Always (Taylor’s Version),225328,False,Fearless (Taylor's Version),0.598,0.821,-4.433,0.0447,0.0231,0.0,0.143,0.673
+The Best Day (Taylor’s Version),245290,False,Fearless (Taylor's Version),0.642,0.576,-8.524,0.0282,0.488,0.0,0.159,0.469
+Change (Taylor’s Version),279359,False,Fearless (Taylor's Version),0.499,0.815,-4.063,0.0341,0.000191,0.0,0.181,0.344
+Jump Then Fall (Taylor’s Version),237580,False,Fearless (Taylor's Version),0.572,0.69,-6.201,0.0358,0.0474,0.0,0.0897,0.624
+Untouchable (Taylor’s Version),312107,False,Fearless (Taylor's Version),0.393,0.531,-6.112,0.0329,0.0181,0.0,0.169,0.224
+Forever & Always (Piano Version) (Taylor’s Version),267833,False,Fearless (Taylor's Version),0.546,0.273,-9.208,0.0308,0.819,0.0,0.137,0.271
+Come In With The Rain (Taylor’s Version),237338,False,Fearless (Taylor's Version),0.476,0.564,-5.677,0.0269,0.0406,0.0,0.102,0.167
+Superstar (Taylor’s Version),263865,False,Fearless (Taylor's Version),0.454,0.555,-6.69,0.0283,0.157,0.0,0.343,0.171
+The Other Side Of The Door (Taylor’s Version),238443,False,Fearless (Taylor's Version),0.432,0.873,-4.367,0.0577,0.0279,0.0,0.167,0.629
+Today Was A Fairytale (Taylor’s Version),241822,False,Fearless (Taylor's Version),0.482,0.779,-5.025,0.0409,0.0135,0.0,0.296,0.328
+You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),220839,False,Fearless (Taylor's Version),0.599,0.494,-7.61,0.0372,0.816,0.0,0.101,0.44
+Mr. Perfectly Fine (Taylor’s Version) (From The Vault),277591,False,Fearless (Taylor's Version),0.66,0.817,-6.269,0.0521,0.162,0.0,0.0667,0.714
+We Were Happy (Taylor’s Version) (From The Vault),244236,False,Fearless (Taylor's Version),0.609,0.373,-8.819,0.0263,0.849,0.0,0.0779,0.13
+That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),189495,False,Fearless (Taylor's Version),0.588,0.608,-7.062,0.0365,0.225,0.0,0.092,0.508
+Don’t You (Taylor’s Version) (From The Vault),208608,False,Fearless (Taylor's Version),0.563,0.473,-11.548,0.0503,0.514,1.2e-05,0.109,0.405
+Bye Bye Baby (Taylor’s Version) (From The Vault),242157,False,Fearless (Taylor's Version),0.624,0.624,-7.86,0.0539,0.334,0.0,0.0995,0.527
+willow,214706,False,evermore (deluxe version),0.392,0.574,-9.195,0.17,0.833,0.00179,0.145,0.529
+champagne problems,244000,True,evermore (deluxe version),0.462,0.24,-12.077,0.0377,0.92,0.0,0.113,0.32
+gold rush,185320,True,evermore (deluxe version),0.512,0.462,-10.491,0.0408,0.83,0.166,0.121,0.353
+‘tis the damn season,229840,False,evermore (deluxe version),0.575,0.434,-8.193,0.0312,0.735,6.59e-05,0.105,0.348
+tolerate it,245440,True,evermore (deluxe version),0.316,0.361,-10.381,0.0488,0.878,2.67e-05,0.0797,0.221
+"no body, no crime (feat. HAIM)",215626,False,evermore (deluxe version),0.546,0.613,-7.589,0.0264,0.418,0.0,0.103,0.535
+happiness,315146,True,evermore (deluxe version),0.559,0.334,-10.733,0.0376,0.87,0.0,0.114,0.211
+dorothea,225880,False,evermore (deluxe version),0.605,0.488,-8.322,0.0264,0.696,0.0,0.129,0.354
+coney island (feat. The National),275320,False,evermore (deluxe version),0.537,0.537,-11.266,0.0617,0.819,0.000904,0.142,0.292
+ivy,260440,True,evermore (deluxe version),0.515,0.545,-9.277,0.0353,0.855,1.97e-05,0.0921,0.535
+cowboy like me,275040,True,evermore (deluxe version),0.604,0.517,-9.014,0.0347,0.768,0.000155,0.123,0.511
+long story short,215920,False,evermore (deluxe version),0.546,0.73,-7.704,0.0417,0.66,0.179,0.0972,0.573
+marjorie,257773,False,evermore (deluxe version),0.535,0.561,-11.609,0.0484,0.876,0.000136,0.115,0.287
+closure,180653,False,evermore (deluxe version),0.689,0.704,-10.813,0.245,0.835,4.83e-06,0.134,0.92
+evermore (feat. Bon Iver),304106,False,evermore (deluxe version),0.39,0.27,-10.673,0.0308,0.937,0.00227,0.111,0.32
+right where you left me - bonus track,245026,False,evermore (deluxe version),0.581,0.619,-6.524,0.0282,0.769,0.000106,0.117,0.645
+it’s time to go - bonus track,254640,False,evermore (deluxe version),0.592,0.41,-12.426,0.0397,0.801,1.39e-05,0.09,0.416
+the 1,210240,True,folklore (deluxe version),0.78,0.361,-6.942,0.048,0.75,7.14e-06,0.108,0.163
+cardigan,239560,False,folklore (deluxe version),0.612,0.58,-8.572,0.0419,0.525,0.000414,0.26,0.534
+the last great american dynasty,231000,True,folklore (deluxe version),0.688,0.653,-8.558,0.0403,0.481,0.00414,0.106,0.701
+exile (feat. Bon Iver),285640,False,folklore (deluxe version),0.31,0.374,-8.464,0.0275,0.761,2.46e-05,0.11,0.16
+my tears ricochet,255893,False,folklore (deluxe version),0.456,0.265,-10.663,0.0328,0.814,0.0,0.0679,0.112
+mirrorball,208973,False,folklore (deluxe version),0.549,0.417,-10.064,0.035,0.686,1.9e-06,0.0604,0.347
+seven,208906,False,folklore (deluxe version),0.602,0.494,-10.813,0.0277,0.888,2.59e-05,0.0902,0.374
+august,261920,False,folklore (deluxe version),0.387,0.634,-9.222,0.0363,0.553,6.93e-05,0.0931,0.42
+this is me trying,195106,False,folklore (deluxe version),0.511,0.478,-9.837,0.0322,0.312,2.3e-05,0.147,0.408
+illicit affairs,190893,False,folklore (deluxe version),0.529,0.304,-10.567,0.0356,0.862,0.0,0.108,0.44
+invisible string,252880,False,folklore (deluxe version),0.651,0.459,-11.128,0.0507,0.859,6.63e-05,0.105,0.454
+mad woman,237266,True,folklore (deluxe version),0.593,0.7,-9.016,0.0492,0.67,6.77e-06,0.116,0.451
+epiphany,289746,False,folklore (deluxe version),0.317,0.254,-13.679,0.0286,0.727,0.000326,0.0867,0.103
+betty,294520,True,folklore (deluxe version),0.595,0.376,-8.767,0.0256,0.589,0.0,0.0989,0.476
+peace,234000,True,folklore (deluxe version),0.644,0.284,-12.879,0.0821,0.916,1.5e-05,0.0909,0.328
+hoax,220040,False,folklore (deluxe version),0.676,0.178,-15.01,0.0394,0.964,7.9e-06,0.135,0.404
+the lakes - bonus track,211813,False,folklore (deluxe version),0.313,0.258,-11.532,0.0383,0.842,1.3e-06,0.0948,0.268
+I Forgot That You Existed,170640,False,Lover,0.664,0.316,-10.345,0.519,0.298,2.03e-06,0.0812,0.541
+Cruel Summer,178426,False,Lover,0.552,0.702,-5.707,0.157,0.117,2.06e-05,0.105,0.564
+Lover,221306,False,Lover,0.359,0.543,-7.582,0.0919,0.492,1.58e-05,0.118,0.453
+The Man,190360,False,Lover,0.777,0.658,-5.191,0.054,0.0767,0.0,0.0901,0.633
+The Archer,211240,False,Lover,0.292,0.574,-9.375,0.0401,0.12,0.00569,0.0663,0.166
+I Think He Knows,173386,False,Lover,0.897,0.366,-8.029,0.0569,0.00889,0.000353,0.0715,0.416
+Miss Americana & The Heartbreak Prince,234146,False,Lover,0.662,0.747,-6.926,0.0736,0.028,0.00615,0.138,0.487
+Paper Rings,222400,False,Lover,0.811,0.719,-6.553,0.0497,0.0129,1.36e-05,0.0742,0.865
+Cornelia Street,287266,False,Lover,0.824,0.624,-9.728,0.0827,0.781,0.000189,0.1,0.248
+Death By A Thousand Cuts,198533,False,Lover,0.712,0.732,-6.754,0.0629,0.454,0.0,0.319,0.313
+London Boy,190240,False,Lover,0.695,0.71,-6.639,0.05,0.0246,0.000104,0.133,0.557
+Soon You’ll Get Better (feat. The Chicks),201586,False,Lover,0.433,0.182,-12.566,0.0641,0.907,0.0,0.123,0.421
+False God,200306,False,Lover,0.739,0.32,-10.862,0.239,0.736,0.000147,0.111,0.351
+You Need To Calm Down,171360,False,Lover,0.771,0.671,-5.617,0.0553,0.00929,0.0,0.0637,0.714
+Afterglow,223293,False,Lover,0.756,0.449,-8.746,0.0344,0.13,0.0,0.114,0.399
+ME! (feat. Brendon Urie of Panic! At The Disco),193000,False,Lover,0.61,0.83,-4.105,0.0571,0.033,0.0,0.118,0.728
+It’s Nice To Have A Friend,150440,False,Lover,0.737,0.175,-9.912,0.0401,0.971,0.000337,0.171,0.545
+Daylight,293453,False,Lover,0.557,0.496,-9.602,0.0563,0.808,0.000173,0.0772,0.265
+...Ready For It?,208186,False,reputation,0.613,0.764,-6.509,0.136,0.0527,0.0,0.197,0.417
+End Game,244826,False,reputation,0.649,0.589,-6.237,0.0558,0.00845,0.0,0.108,0.151
+I Did Something Bad,238253,False,reputation,0.696,0.602,-6.156,0.159,0.0679,2.11e-05,0.0696,0.305
+Don’t Blame Me,236413,False,reputation,0.615,0.534,-6.719,0.0386,0.106,1.76e-05,0.0607,0.193
+Delicate,232253,False,reputation,0.75,0.404,-10.178,0.0682,0.216,0.000357,0.0911,0.0499
+Look What You Made Me Do,211853,False,reputation,0.766,0.709,-6.471,0.123,0.204,1.41e-05,0.126,0.506
+So It Goes...,227906,False,reputation,0.574,0.61,-7.283,0.0732,0.122,1.1e-06,0.13,0.374
+Gorgeous,209680,False,reputation,0.8,0.535,-6.684,0.135,0.0713,9.48e-06,0.213,0.451
+Getaway Car,233626,False,reputation,0.562,0.689,-6.745,0.127,0.00465,2.23e-06,0.0888,0.351
+King Of My Heart,214320,False,reputation,0.675,0.703,-7.902,0.0382,0.00882,2.21e-06,0.0391,0.314
+Dancing With Our Hands Tied,211506,False,reputation,0.624,0.691,-6.686,0.196,0.0604,1.1e-05,0.138,0.284
+Dress,230373,False,reputation,0.719,0.469,-8.792,0.0533,0.0329,0.0,0.169,0.0851
+This Is Why We Can't Have Nice Things,207133,False,reputation,0.567,0.789,-5.986,0.115,0.0156,0.0,0.382,0.438
+Call It What You Want,203506,False,reputation,0.598,0.504,-9.874,0.0731,0.186,0.000221,0.34,0.252
+New Year’s Day,235466,False,reputation,0.661,0.151,-12.864,0.0354,0.921,0.0,0.13,0.23
+The Fate of Ophelia,226000,False,The Life of a Showgirl,0.68,0.75,-5.2,0.04,0.15,0.0,0.12,0.62
+Elizabeth Taylor,208000,False,The Life of a Showgirl,0.62,0.68,-6.1,0.05,0.22,0.0,0.1,0.55
+Opalite,235000,False,The Life of a Showgirl,0.72,0.8,-4.8,0.06,0.1,0.0,0.15,0.78
+Father Figure,212000,True,The Life of a Showgirl,0.5,0.45,-8.5,0.03,0.6,0.0,0.09,0.38
+Eldest Daughter,246000,False,The Life of a Showgirl,0.48,0.42,-9.0,0.03,0.65,0.0,0.11,0.35
+Ruin the Friendship,220000,False,The Life of a Showgirl,0.7,0.72,-5.5,0.05,0.18,0.0,0.14,0.65
+Actually Romantic,163000,False,The Life of a Showgirl,0.52,0.48,-8.0,0.04,0.58,0.0,0.08,0.45
+Wish List,207000,False,The Life of a Showgirl,0.65,0.62,-6.8,0.04,0.3,0.0,0.1,0.58
+Wood,150000,True,The Life of a Showgirl,0.78,0.85,-4.2,0.07,0.08,0.0,0.18,0.82
+Cancelled!,211000,True,The Life of a Showgirl,0.66,0.7,-5.8,0.06,0.2,0.0,0.13,0.52
+Honey,181000,False,The Life of a Showgirl,0.58,0.5,-7.5,0.03,0.45,0.0,0.09,0.6
+The Life of a Showgirl (feat. Sabrina Carpenter),241000,False,The Life of a Showgirl,0.64,0.66,-6.0,0.05,0.25,0.0,0.12,0.6
