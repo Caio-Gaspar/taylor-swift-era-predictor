@@ -1,0 +1,13 @@
+track_name,track_id,duration_ms,explicit,track_number,album_id,album_name,album_release_date,album_total_tracks,album_type,artist_name,artist_id,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence
+The Fate of Ophelia,sg_tr_01,226000,False,1,showgirl_2025_id,The Life of a Showgirl,2025-10-03,12,album,Taylor Swift,06HL4z0CvFAxyA2316fA3w,0.68,0.75,-5.2,0.04,0.15,0.0,0.12,0.62
+Elizabeth Taylor,sg_tr_02,208000,False,2,showgirl_2025_id,The Life of a Showgirl,2025-10-03,12,album,Taylor Swift,06HL4z0CvFAxyA2316fA3w,0.62,0.68,-6.1,0.05,0.22,0.0,0.1,0.55
+Opalite,sg_tr_03,235000,False,3,showgirl_2025_id,The Life of a Showgirl,2025-10-03,12,album,Taylor Swift,06HL4z0CvFAxyA2316fA3w,0.72,0.8,-4.8,0.06,0.1,0.0,0.15,0.78
+Father Figure,sg_tr_04,212000,True,4,showgirl_2025_id,The Life of a Showgirl,2025-10-03,12,album,Taylor Swift,06HL4z0CvFAxyA2316fA3w,0.5,0.45,-8.5,0.03,0.6,0.0,0.09,0.38
+Eldest Daughter,sg_tr_05,246000,False,5,showgirl_2025_id,The Life of a Showgirl,2025-10-03,12,album,Taylor Swift,06HL4z0CvFAxyA2316fA3w,0.48,0.42,-9.0,0.03,0.65,0.0,0.11,0.35
+Ruin the Friendship,sg_tr_06,220000,False,6,showgirl_2025_id,The Life of a Showgirl,2025-10-03,12,album,Taylor Swift,06HL4z0CvFAxyA2316fA3w,0.7,0.72,-5.5,0.05,0.18,0.0,0.14,0.65
+Actually Romantic,sg_tr_07,163000,False,7,showgirl_2025_id,The Life of a Showgirl,2025-10-03,12,album,Taylor Swift,06HL4z0CvFAxyA2316fA3w,0.52,0.48,-8.0,0.04,0.58,0.0,0.08,0.45
+Wish List,sg_tr_08,207000,False,8,showgirl_2025_id,The Life of a Showgirl,2025-10-03,12,album,Taylor Swift,06HL4z0CvFAxyA2316fA3w,0.65,0.62,-6.8,0.04,0.3,0.0,0.1,0.58
+Wood,sg_tr_09,150000,True,9,showgirl_2025_id,The Life of a Showgirl,2025-10-03,12,album,Taylor Swift,06HL4z0CvFAxyA2316fA3w,0.78,0.85,-4.2,0.07,0.08,0.0,0.18,0.82
+Cancelled!,sg_tr_10,211000,True,10,showgirl_2025_id,The Life of a Showgirl,2025-10-03,12,album,Taylor Swift,06HL4z0CvFAxyA2316fA3w,0.66,0.7,-5.8,0.06,0.2,0.0,0.13,0.52
+Honey,sg_tr_11,181000,False,11,showgirl_2025_id,The Life of a Showgirl,2025-10-03,12,album,Taylor Swift,06HL4z0CvFAxyA2316fA3w,0.58,0.5,-7.5,0.03,0.45,0.0,0.09,0.6
+The Life of a Showgirl (feat. Sabrina Carpenter),sg_tr_12,241000,False,12,showgirl_2025_id,The Life of a Showgirl,2025-10-03,12,album,Taylor Swift,06HL4z0CvFAxyA2316fA3w,0.64,0.66,-6.0,0.05,0.25,0.0,0.12,0.6
